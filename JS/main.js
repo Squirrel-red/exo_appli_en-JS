@@ -3,9 +3,9 @@
     addBtn.addEventListener('click', addTask);            // add à task on click
 
     // on créé la fonction d'ajout
-//   const addBtn = document.querySelector('#btn');
+    // const addBtn = document.querySelector('#btn');
     const taskCard = document.querySelector(".todoCard");
-    const taskContainer = document.querySelector("#todoCards");
+    const tasksContainer = document.querySelector("#todoCards");
 
 
     function addTask(){
