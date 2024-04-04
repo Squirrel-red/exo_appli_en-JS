@@ -1,0 +1,26 @@
+#btn{
+    width: 100%;
+    margin: 5px;
+    cursor: pointer;
+}
+.task{
+ 
+  margin: 5px;
+}
+
+#todoCards{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.todoCard{
+    width: 250px;
+    position: relative;
+    cursor: pointer;
+}
+.delBtn{
+   position: relative;
+   top: -15px;
+   left: -35px;
+}
